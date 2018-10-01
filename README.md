@@ -1,4 +1,4 @@
-#ARHDRCamera
+# ARHDRCamera
 
 ARKit のカメラエフェクト。  
-Blog を参照。 
+[Blog](http://appleengine.hatenablog.com/entry/2018/10/01/191422) を参照。
